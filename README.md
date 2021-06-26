@@ -8,8 +8,8 @@ To run it locally:
 * Run the server with ```npm start``` (Note this will package all the js files with browserify first)
 
 # Future Features
- - Accounts
- - Overlays
- - Redesign for home page and room page
- - Display current rooms on homepage
- - Optimistic updates to make game feel faster
+ - Accounts.
+ - Overlays.
+ - Redesign for home page and room page.
+ - Display current rooms on homepage.
+ - Optimistic updates to make game feel faster.
